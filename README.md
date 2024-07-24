@@ -1,9 +1,14 @@
 # CODTECH-TASK1
 Name: Dhruvi Desai
+
 Company: CODTECH IT SOLUTIONS
+
 ID:CT4DA3245
+
 Domain: Data Analytics
+
 Duration: June to July 2024
+
 Mentor: 
 
 project: Customer segmentation analysis
